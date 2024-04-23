@@ -1,1 +1,1 @@
-# app-engine-java-sample
+# Java Sample Code for App Engine FCI
